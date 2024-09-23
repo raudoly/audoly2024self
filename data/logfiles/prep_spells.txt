@@ -1,0 +1,38 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /home/rcerxa13/research/seur/data/logfiles/prep_spells.txt
+  log type:  text
+ opened on:   2 Oct 2023, 16:10:47
+
+. 
+. buildspells 1996
+Constructing weekly LF status and transitions...
+ROUND 1: employed status is valid for 96.497069 percent of observations with employed==1
+ROUND 2: employed status is valid for 96.820001 percent of observations with employed==1
+ROUND 3: employed status is valid for 99.929429 percent of observations with employed==1
+
+. buildspells 2001
+Constructing weekly LF status and transitions...
+ROUND 1: employed status is valid for 97.296803 percent of observations with employed==1
+ROUND 2: employed status is valid for 97.68133 percent of observations with employed==1
+ROUND 3: employed status is valid for 99.991641 percent of observations with employed==1
+
+. buildspells 2004
+Constructing weekly LF status and transitions...
+ROUND 1: employed status is valid for 96.997656 percent of observations with employed==1
+ROUND 2: employed status is valid for 97.60499 percent of observations with employed==1
+ROUND 3: employed status is valid for 99.989567 percent of observations with employed==1
+
+. buildspells 2008
+Constructing weekly LF status and transitions...
+ROUND 1: employed status is valid for 97.305081 percent of observations with employed==1
+ROUND 2: employed status is valid for 97.727586 percent of observations with employed==1
+ROUND 3: employed status is valid for 99.989165 percent of observations with employed==1
+
+. 
+. log close
+      name:  <unnamed>
+       log:  /home/rcerxa13/research/seur/data/logfiles/prep_spells.txt
+  log type:  text
+ closed on:   2 Oct 2023, 16:24:38
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
